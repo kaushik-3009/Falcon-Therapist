@@ -1,4 +1,4 @@
-# Mental Health Therapy Chatbot using Fine-tuned Falcon 7B
+# AI Therapist using Fine-tuned Falcon 7B
 
 This project introduces a mental health therapy chatbot powered by a fine-tuned version of the Falcon 7B large language model.  The chatbot aims to provide accessible and empathetic mental health support through a conversational interface.
 
